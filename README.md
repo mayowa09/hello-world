@@ -8,5 +8,6 @@
       "id": "HNG-04813",
       "email": "mayortwilz@gmail.com",
       "language": "JavaScript",
+      "status": "Pass",
 }
 },
